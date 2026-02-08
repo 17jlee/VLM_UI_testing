@@ -7,7 +7,7 @@ This project has been bundled with an example UI that has a navigation view with
 
 <img src="screenshots/english_home.png" width="400">
 
-<img src="screenshots/arabic_truncation" width="400">
+<img src="screenshots/arabic_truncation.png" width="400">
 
 
 ## Advantages to 'Vision-less' Approaches
