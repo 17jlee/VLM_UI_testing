@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DB3CA0CB2F390E3300A8F603 /* Secrets.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = DB3CA0CA2F390E3300A8F603 /* Secrets.xcconfig */; };
 		DB3CA0D22F3915C000A8F603 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DB3CA0D02F3915BC00A8F603 /* README.md */; };
 		DBE1E7202F38F4BE005B1030 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = DBE1E71F2F38F4BE005B1030 /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		DB3CA0C92F38FA2C00A8F603 /* VLM_testing.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = VLM_testing.xctestplan; sourceTree = "<group>"; };
+		DB3CA0CA2F390E3300A8F603 /* Secrets.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Secrets.xcconfig; sourceTree = "<group>"; };
 		DB3CA0D02F3915BC00A8F603 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DBE1E6ED2F38A157005B1030 /* VLM_testing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VLM_testing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBE1E7042F38A15A005B1030 /* VLM_testingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VLM_testingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -81,6 +83,7 @@
 		DBE1E6E42F38A156005B1030 = {
 			isa = PBXGroup;
 			children = (
+				DB3CA0CA2F390E3300A8F603 /* Secrets.xcconfig */,
 				DB3CA0D42F391E0200A8F603 /* screenshots */,
 				DB3CA0D02F3915BC00A8F603 /* README.md */,
 				DB3CA0C92F38FA2C00A8F603 /* VLM_testing.xctestplan */,
@@ -207,6 +210,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB3CA0D22F3915C000A8F603 /* README.md in Resources */,
+				DB3CA0CB2F390E3300A8F603 /* Secrets.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -363,8 +367,7 @@
 		};
 		DBE1E70F2F38A15A005B1030 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReferenceAnchor = DBE1E7072F38A15A005B1030 /* VLM_testingUITests */;
-			baseConfigurationReferenceRelativePath = Secrets.xcconfig;
+			baseConfigurationReference = DB3CA0CA2F390E3300A8F603 /* Secrets.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -399,8 +402,7 @@
 		};
 		DBE1E7102F38A15A005B1030 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReferenceAnchor = DBE1E7072F38A15A005B1030 /* VLM_testingUITests */;
-			baseConfigurationReferenceRelativePath = Secrets.xcconfig;
+			baseConfigurationReference = DB3CA0CA2F390E3300A8F603 /* Secrets.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -435,8 +437,7 @@
 		};
 		DBE1E7152F38A15A005B1030 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReferenceAnchor = DBE1E7072F38A15A005B1030 /* VLM_testingUITests */;
-			baseConfigurationReferenceRelativePath = Secrets.xcconfig;
+			baseConfigurationReference = DB3CA0CA2F390E3300A8F603 /* Secrets.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -458,8 +459,7 @@
 		};
 		DBE1E7162F38A15A005B1030 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReferenceAnchor = DBE1E7072F38A15A005B1030 /* VLM_testingUITests */;
-			baseConfigurationReferenceRelativePath = Secrets.xcconfig;
+			baseConfigurationReference = DB3CA0CA2F390E3300A8F603 /* Secrets.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
