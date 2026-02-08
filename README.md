@@ -5,10 +5,10 @@ This project uses **Google Gemini 3 Flash (Vision Language Model)** to act as a 
 This project has been bundled with an example UI that has a navigation view with some views having truncated text whilst others do not to showcase the agent's ability to traverse through views and stop when a truncated view has been found.
 >Note: Translations are likely to be inaccurate as they are machine-translated for the purposes of this demo.
 
-<img src="screenshots/english_home.png" width="400">
 
-<img src="screenshots/arabic_truncation.png" width="400">
 
+| :---: | :---: |
+| <img src="screenshots/arabic_truncation.png" width="300"> | <img src="screenshots/arabic_truncation.png" width="300"> |
 
 ## Advantages to 'Vision-less' Approaches
 
