@@ -86,14 +86,7 @@ This project uses native **Xcode Attachments** to generate rich visual reports.
 
 ## Sample Results
 
-
-
-
-
-
-| Text Log | Screen State |
-| :---: | :---: |
-| ```
+```
 DECISION: done -> 
 REASONING: Visual inspection of the screenshot clearly shows ellipses at the end of the Hebrew sentences in the first list, indicating that the full text provided in the UI hierarchy labels is not being displayed.
 --------------------------------------------------
@@ -105,7 +98,8 @@ HIERARCHY SNIPPET:
     StaticText, , {{16.0, 124.3}, {370.0, 52.0}}, label: 'שורה מס' 1: זוהי פיסת טקסט ארכנית בצורה מוגזמת וארוכה באופן לא סביר המשמשת ככותרת שורת רשימה'
     StaticText, , {{16.0, 176.3}, {370.0, 52.0}}, label: 'שורה מס' 2: זוהי פיסת טקסט ארכנית בצורה מוגזמת וארוכה באופן לא סביר המשמשת ככות... (truncated)'
 
-``` | <img src="screenshots/hebrew_truncation.png" width="400"> |
+```
+<img src="screenshots/hebrew_truncation.png" width="400">
 
 ---
 
