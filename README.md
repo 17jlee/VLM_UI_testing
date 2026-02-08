@@ -8,7 +8,10 @@ This project has been bundled with an example UI that has a navigation view with
 
 
 
+| Initial View | Truncated View |
+| :---: | :---: |
 | <img src="screenshots/english_home.png" width="300"> | <img src="screenshots/arabic_truncation.png" width="300"> |
+
 
 ## Advantages to 'Vision-less' Approaches
 
