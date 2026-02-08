@@ -1,0 +1,64 @@
+{
+  "configurations" : [
+    {
+      "id" : "61C6A7FA-3C9C-4509-96DA-52F7E2240C36",
+      "name" : "English",
+      "options" : {
+        "language" : "en"
+      }
+    },
+    {
+      "id" : "DA1C855D-BFD7-42CD-8CEC-AC2C728B7FE6",
+      "name" : "Arabic",
+      "options" : {
+        "language" : "ar"
+      }
+    },
+    {
+      "id" : "8D9943F5-6F4F-4F20-8742-517CDAEB828E",
+      "name" : "French",
+      "options" : {
+        "language" : "fr"
+      }
+    },
+    {
+      "id" : "5E48611B-7AD9-4F5D-9B69-18B0D4456C17",
+      "name" : "German",
+      "options" : {
+        "language" : "de"
+      }
+    },
+    {
+      "id" : "265DFDDF-CA54-4745-B5D1-F5AA0A18DC04",
+      "name" : "Hebrew",
+      "options" : {
+        "language" : "he"
+      }
+    },
+    {
+      "id" : "44617B84-B1E4-42D8-B242-DB921035B08A",
+      "name" : "Spanish",
+      "options" : {
+        "language" : "es"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:VLM_testing.xcodeproj",
+      "identifier" : "DBE1E6EC2F38A157005B1030",
+      "name" : "VLM_testing"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:VLM_testing.xcodeproj",
+        "identifier" : "DBE1E7032F38A15A005B1030",
+        "name" : "VLM_testingUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

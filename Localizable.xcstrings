@@ -1,0 +1,958 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Another Section With A Ridiculously Long Header That Will Probably Wrap" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قسم آخر برأس طويل بشكل سخيف من المحتمل أن يلتف"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein weiterer Abschnitt mit einer lächerlich langen Überschrift, die wahrscheinlich umbricht"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otra sección con un encabezado ridículamente largo que probablemente se ajustará"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une autre section avec un en-tête ridiculement long qui va probablement s'enrouler"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מדור נוסף עם כותרת מגוחכת באורכה שכנראה תגלוש"
+          }
+        }
+      }
+    },
+    "Another Very Long Row Title To See If The Text Gets Truncated Or Wrapped Depending On The Device Size (Row #%lld)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان صف طويل جداً آخر لمعرفة ما إذا كان النص سيتم اقتطاعه أو التفافه حسب حجم الجهاز (الصف رقم %lld)"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein weiterer sehr langer Zeilentitel, um zu sehen, ob der Text je nach Gerätegröße abgeschnitten oder umbrochen wird (Zeile #%lld)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otro título de fila muy largo para ver si el texto se trunca o se ajusta según el tamaño del dispositivo (Fila n.º %lld)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un autre titre de ligne très long pour voir si le texte est tronqué ou enveloppé selon la taille de l'appareil (Ligne n°%lld)"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "עוד כותרת שורה ארוכה מאוד כדי לראות אם הטקסט נקטע או גולש בהתאם לגודל המכשיר (שורה מס' %lld)"
+          }
+        }
+      }
+    },
+    "Button With An Extremely, Almost Ridiculously Long Label For Maximum UI Truncation Testing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زر بتسمية طويلة للغاية وشبه سخيفة لأقصى اختبار لاقتطاع واجهة المستخدم"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schaltfläche mit einer extrem, fast lächerlich langen Beschriftung für maximales UI-Abschneide-Testen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Botón con una etiqueta extremadamente, casi ridículamente larga para pruebas máximas de truncamiento de IU"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bouton avec une étiquette extrêmement, presque ridiculement longue pour un test maximal de troncature de l'interface"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כפתור עם תווית ארוכה במיוחד, כמעט מגוחכת, לבדיקת קיטוע מקסימלית של ממשק המשתמש"
+          }
+        }
+      }
+    },
+    "Detail View Title With A Title That Overflows The Usual Width Of The Navigation Bar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان عرض التفاصيل بعنوان يفيض عن العرض المعتاد لشريط التنقل"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detailansichtstitel mit einem Titel, der die übliche Breite der Navigationsleiste überläuft"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título de vista detallada con un título que desborda el ancho habitual de la barra de navegación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titre de la vue détaillée avec un titre qui déborde de la largeur habituelle de la barre de navigation"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כותרת תצוגת פרטים עם כותרת שגולשת מעבר לרוחב הרגיל של סרגל הניווט"
+          }
+        }
+      }
+    },
+    "Detail: Overly Long Navigation Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفاصيل: عنوان تنقل طويل جداً"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detail: Übermäßig langer Navigationstitel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalle: Título de navegación excesivamente largo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Détail : Titre de navigation excessivement long"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "פרטים: כותרת ניווט ארוכה מדי"
+          }
+        }
+      }
+    },
+    "Dismiss This Incredibly Long Button Title For The Alert" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تجاهل عنوان الزر الطويل بشكل لا يصدق للتنبيه"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diesen unglaublich langen Schaltflächentitel für die Warnung verwerfen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descartar este título de botón increíblemente largo para la alerta"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ignorer ce titre de bouton incroyablement long pour l'alerte"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "בטל את כותרת הכפתור הארוכה להפליא הזו עבור ההתראה"
+          }
+        }
+      }
+    },
+    "Dismiss This Sheet With A Very Long Button Title For Fun" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تجاهل هذه الورقة بعنوان زر طويل جداً للمتعة"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Blatt mit einem sehr langen Schaltflächentitel zum Spaß verwerfen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descartar esta hoja con un título de botón muy largo por diversión"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermer cette feuille avec un titre de bouton très long pour le plaisir"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "בטל את הגיליון הזה עם כותרת כפתור ארוכה מאוד בשביל הכיף"
+          }
+        }
+      }
+    },
+    "Form Section With A Comedically Long Header Title That Is Bound To Cause Truncation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قسم نموذج بعنوان رأس طويل بشكل كوميدي لا بد أن يسبب اقتطاعاً"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formularabschnitt mit einem komisch langen Überschriftentitel, der zwangsläufig zum Abschneiden führt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sección de formulario con un título de encabezado cómicamente largo que seguramente causará truncamiento"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Section de formulaire avec un titre d'en-tête comiquement long qui est voué à provoquer une troncature"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מדור טופס עם כותרת ראש ארוכה בצורה קומית שבוודאי תגרום לקיטוע"
+          }
+        }
+      }
+    },
+    "Hello World!" : {
+      "comment" : "A simple greeting text.",
+      "isCommentAutoGenerated" : true,
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبا بالعالم"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hallo Welt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello World!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hola Mundo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonjour le monde"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "שלום עולם"
+          }
+        }
+      }
+    },
+    "Here is some very, very, very, very, very, very, very, very, very, very, very long detail text that will probably need to wrap or get truncated depending on the available space." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إليك بعض نصوص التفاصيل الطويلة جداً جداً جداً جداً جداً التي ستحتاج على الأرجح إلى الالتفاف أو الاقتطاع حسب المساحة المتوفرة."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hier ist ein sehr, sehr, sehr, sehr, sehr, sehr, sehr langer Detailtext, der je nach verfügbarem Platz wahrscheinlich umbrechen oder abgeschnitten werden muss."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aquí hay un texto de detalle muy, muy, muy, muy, muy, muy, muy, muy, muy largo que probablemente necesitará ajustarse o truncarse según el espacio disponible."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voici un texte de détail très, très, très, très, très, très, très, très, très, très, très long qui devra probablement s'enrouler ou être tronqué selon l'espace disponible."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הנה טקסט פרטים ארוך מאוד, מאוד, מאוד, מאוד, מאוד, מאוד, מאוד, מאוד, שבטח יצטרך לגלוש או להיקטע בהתאם למקום הפנוי."
+          }
+        }
+      }
+    },
+    "Label With An Absurdly, Unnecessarily, Incredibly Long Title That Is Definitely Too Long For Comfort" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسمية بعنوان طويل بشكل سخيف وغير ضروري ولا يصدق وهو بالتأكيد طويل جداً للراحة"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Label mit einem absurd, unnötig, unglaublich langen Titel, der definitiv zu lang für den Komfort ist"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etiqueta con un título absurda, innecesaria e increíblemente largo que definitivamente es demasiado largo para ser cómodo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Étiquette avec un titre absurdement, inutilement et incroyablement long qui est définitivement trop long pour être confortable"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "תווית עם כותרת ארוכה באופן אבסורדי, מיותר ובלתי יאמן שהיא בהחלט ארוכה מדי לנוחות"
+          }
+        }
+      }
+    },
+    "List Tab With A Ridiculously Long Tab Title To See What Happens When Text Overflows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "علامة تبويب القائمة بعنوان طويل بشكل سخيف لمعرفة ما يحدث عندما يفيض النص"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listentab mit einem lächerlich langen Tab-Titel, um zu sehen, was passiert, wenn der Text überläuft"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pestaña de lista con un título ridículamente largo para ver qué sucede cuando el texto se desborda"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onglet de liste avec un titre ridiculement long pour voir ce qui se passe lorsque le texte déborde"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כרטיסיית רשימה עם כותרת מגוחכת באורכה כדי לראות מה קורה כשהטקסט גולש"
+          }
+        }
+      }
+    },
+    "ListDemo With A Navigation Title That Is Far Too Long For Its Own Good" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عرض القائمة بعنوان تنقل طويل جداً أكثر مما ينبغي"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listendemo mit einem Navigationstitel, der viel zu lang für sein eigenes Wohl ist"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demostración de lista con un título de navegación que es demasiado largo para su propio bien"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démo de liste avec un titre de navigation qui est beaucoup trop long pour son propre bien"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הדגמת רשימה עם כותרת ניווט שהיא ארוכה מדי לטובתה האישית"
+          }
+        }
+      }
+    },
+    "Miscellaneous Tab With A Ridiculously Long Navigation Title That Should Be Truncated" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "علامة تبويب متنوعة بعنوان تنقل طويل بشكل سخيف يجب اقتطاعه"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verschiedenes-Tab mit einem lächerlich langen Navigationstitel, der abgeschnitten werden sollte"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pestaña Miscelánea con un título de navegación ridículamente largo que debería truncarse"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onglet divers avec un titre de navigation ridiculement long qui devrait être tronqué"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כרטיסיית שונות עם כותרת ניווט מגוחכת באורכה שצריכה להיקטע"
+          }
+        }
+      }
+    },
+    "Miscellaneous UI Tab With Yet Another Very Long String Title Example" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "علامة تبويب واجهة مستخدم متنوعة مع مثال آخر لعنوان سلسلة طويل جداً"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verschiedenes-UI-Tab mit noch einem weiteren sehr langen Zeichenfolgen-Titel-Beispiel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pestaña de interfaz de usuario miscelánea con otro ejemplo de título de cadena muy largo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onglet d'interface utilisateur divers avec encore un autre exemple de titre de chaîne très long"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כרטיסיית ממשק משתמש שונה עם עוד דוגמה לכותרת מחרוזת ארוכה מאוד"
+          }
+        }
+      }
+    },
+    "Navigation Tab With An Extremely Long Title To Test Truncation Behavior In Tab Bar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "علامة تبويب التنقل بعنوان طويل للغاية لاختبار سلوك الاقتطاع في شريط علامات التبويب"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navigationstab mit einem extrem langen Titel, um das Abschneideverhalten in der Tab-Leiste zu testen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pestaña de navegación con un título extremadamente largo para probar el comportamiento de truncamiento en la barra de pestañas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onglet de navigation avec un titre extrêmement long pour tester le comportement de troncature dans la barre d'onglets"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כרטיסיית ניווט עם כותרת ארוכה במיוחד לבדיקת התנהגות קיטוע בסרגל הכרטיסיות"
+          }
+        }
+      }
+    },
+    "Push: This Is A Very Long Navigation Link That Will Likely Be Truncated In The List Row" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دفع: هذا رابط تنقل طويل جداً ومن المحتمل أن يتم اقتطاعه في صف القائمة"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Push: Dies ist ein sehr langer Navigationslink, der wahrscheinlich in der Listenzeile abgeschnitten wird"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Push: Este es un enlace de navegación muy largo que probablemente se truncará en la fila de la lista"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Push : Ceci est un lien de navigation très long qui sera probablement tronqué dans la ligne de la liste"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "דחיפה: זהו קישור ניווט ארוך מאוד שסביר להניח שיקוצר בשורת הרשימה"
+          }
+        }
+      }
+    },
+    "Row #%lld: This Is An Excessively Verbose And Unreasonably Long Piece Of Text Used As A List Row Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصف رقم %lld: هذا جزء من النص مطول بشكل مفرط وطويل بشكل غير معقول يستخدم كعنوان لصف القائمة"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeile #%lld: Dies ist ein übermäßig wortreicher und unvernünftig langer Text, der als Listenzeilentitel verwendet wird"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fila n.º %lld: Este es un texto excesivamente detallado e irrazonablemente largo utilizado como título de fila de lista"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ligne n°%lld : Ceci est un texte excessivement verbeux et déraisonnablement long utilisé comme titre de ligne de liste"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "שורה מס' %lld: זוהי פיסת טקסט ארכנית בצורה מוגזמת וארוכה באופן לא סביר המשמשת ככותרת שורת רשימה"
+          }
+        }
+      }
+    },
+    "Section Header With A Title That Is Absurdly, Excessively, And Almost Comically Long" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رأس قسم بعنوان طويل بشكل سخيف ومفرط وكوميدي تقريباً"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abschnittsüberschrift mit einem Titel, der absurd, übermäßig und fast komisch lang ist"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encabezado de sección con un título que es absurda, excesiva y casi cómicamente largo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En-tête de section avec un titre qui est absurdement, excessivement et presque comiquement long"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כותרת מדור עם כותרת שהיא ארוכה באופן אבסורדי, מוגזם וכמעט קומי"
+          }
+        }
+      }
+    },
+    "Sheet Title With An Obscenely Long String That Probably Won't Fit On One Line" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان ورقة بسلسلة طويلة بشكل فاحش ربما لن تتناسب مع سطر واحد"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blatttitel mit einer obszön langen Zeichenfolge, die wahrscheinlich nicht in eine Zeile passt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título de la hoja con una cadena obscenamente larga que probablemente no cabrá en una línea"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titre de la feuille avec une chaîne obscènement longue qui ne tiendra probablement pas sur une ligne"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כותרת גיליון עם מחרוזת ארוכה בצורה גסה שכנראה לא תיכנס בשורה אחת"
+          }
+        }
+      }
+    },
+    "Show Alert With Extremely Long Text That Will Most Certainly Not Fit On One Line, So We Can See How Alerts Handle It" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إظهار تنبيه بنص طويل للغاية لن يتناسب بالتأكيد مع سطر واحد، حتى نتمكن من رؤية كيفية تعامل التنبيهات معه"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeige Warnung mit extrem langem Text, der sicherlich nicht in eine Zeile passt, damit wir sehen können, wie Warnungen damit umgehen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar alerta con texto extremadamente largo que con toda seguridad no cabrá en una línea, para ver cómo lo manejan las alertas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher une alerte avec un texte extrêmement long qui ne tiendra certainement pas sur une ligne, pour voir comment les alertes le gèrent"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הצג התראה עם טקסט ארוך במיוחד שבוודאות לא ייכנס בשורה אחת, כדי שנוכל לראות איך התראות מתמודדות עם זה"
+          }
+        }
+      }
+    },
+    "This Is An Alert With A Ludicrously Long Title That Will Probably Get Truncated, Especially On Small Screens" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هذا تنبيه بعنوان طويل بشكل مضحك ومن المحتمل أن يتم اقتطاعه، خاصة على الشاشات الصغيرة"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dies ist eine Warnung mit einem lächerlich langen Titel, der wahrscheinlich abgeschnitten wird, besonders auf kleinen Bildschirmen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta es una alerta con un título ridículamente largo que probablemente se truncará, especialmente en pantallas pequeñas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ceci est une alerte avec un titre ridiculement long qui sera probablement tronqué, surtout sur les petits écrans"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "זוהי התראה עם כותרת ארוכה בצורה מגוחכת שכנראה תיקטע, במיוחד במסכים קטנים"
+          }
+        }
+      }
+    },
+    "This is the content of a sheet with a very, very, very, very, very, very, very, very long string inside it." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هذا هو محتوى ورقة بسلسلة طويلة جداً جداً جداً جداً جداً بداخلها."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dies ist der Inhalt eines Blattes mit einer sehr, sehr, sehr, sehr, sehr langen Zeichenfolge darin."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este es el contenido de una hoja con una cadena muy, muy, muy, muy, muy, muy, muy, muy larga dentro."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ceci est le contenu d'une feuille avec une chaîne très, très, très, très, très, très, très, très longue à l'intérieur."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "זהו תוכן של גיליון עם מחרוזת ארוכה מאוד, מאוד, מאוד, מאוד, מאוד, מאוד, מאוד בתוכו."
+          }
+        }
+      }
+    },
+    "This Is The Navigation Demo With A Navigation Title That Is Way Too Long To Fit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هذا هو العرض التوضيحي للتنقل بعنوان تنقل طويل جداً بحيث لا يمكن استيعابه"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dies ist die Navigationsdemo mit einem Navigationstitel, der viel zu lang ist, um zu passen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta es la demostración de navegación con un título de navegación que es demasiado largo para caber"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ceci est la démo de navigation avec un titre de navigation qui est bien trop long pour tenir"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "זוהי הדגמת הניווט עם כותרת ניווט שהיא ארוכה מכדי להיכנס למקום"
+          }
+        }
+      }
+    },
+    "ToolbarItem With Another Incredibly Long Title To Check Truncation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنصر شريط الأدوات بعنوان طويل بشكل لا يصدق للتحقق من الاقتطاع"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbolleistenelement mit einem weiteren unglaublich langen Titel, um das Abschneiden zu überprüfen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elemento de barra de herramientas con otro título increíblemente largo para verificar el truncamiento"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Élément de barre d'outils avec un autre titre incroyablement long pour vérifier la troncature"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "פריט סרגל כלים עם כותרת ארוכה להפליא לבדיקת קיטוע"
+          }
+        }
+      }
+    },
+    "ToolbarItem With Another Outrageously Long String To Test Truncation Behavior In The Toolbar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنصر شريط الأدوات بسلسلة أخرى طويلة بشكل شنيع لاختبار سلوك الاقتطاع في شريط الأدوات"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbolleistenelement mit einer weiteren unverschämt langen Zeichenfolge, um das Abschneideverhalten in der Symbolleiste zu testen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elemento de barra de herramientas con otra cadena escandalosamente larga para probar el comportamiento de truncamiento"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Élément de barre d'outils avec une autre chaîne outrageusement longue pour tester le comportement de troncature"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "פריט סרגל כלים עם מחרוזת ארוכה שערורייתית נוספת לבדיקת התנהגות קיטוע בסרגל הכלים"
+          }
+        }
+      }
+    },
+    "Type here: This is a very, very, very, very, very, very, very, very, very long placeholder!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتب هنا: هذا عنصر نائب طويل جداً جداً جداً جداً جداً!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hier tippen: Dies ist ein sehr, sehr, sehr, sehr, sehr langer Platzhalter!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe aquí: ¡Este es un marcador de posición muy, muy, muy, muy, muy largo!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tapez ici : C'est un espace réservé très, très, très, très, très, très, très, très, très long !"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הקלד כאן: זהו שומר מקום ארוך מאוד, מאוד, מאוד, מאוד, מאוד!"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

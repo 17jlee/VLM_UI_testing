@@ -6,14 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		DB3CA0D22F3915C000A8F603 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DB3CA0D02F3915BC00A8F603 /* README.md */; };
+		DBE1E7202F38F4BE005B1030 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = DBE1E71F2F38F4BE005B1030 /* Localizable.xcstrings */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
-		DBE1E6FB2F38A15A005B1030 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = DBE1E6E52F38A157005B1030 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = DBE1E6EC2F38A157005B1030;
-			remoteInfo = VLM_testing;
-		};
 		DBE1E7052F38A15A005B1030 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = DBE1E6E52F38A157005B1030 /* Project object */;
@@ -24,20 +22,35 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DB3CA0C92F38FA2C00A8F603 /* VLM_testing.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = VLM_testing.xctestplan; sourceTree = "<group>"; };
+		DB3CA0D02F3915BC00A8F603 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DBE1E6ED2F38A157005B1030 /* VLM_testing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VLM_testing.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DBE1E6FA2F38A15A005B1030 /* VLM_testingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VLM_testingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBE1E7042F38A15A005B1030 /* VLM_testingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VLM_testingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBE1E71F2F38F4BE005B1030 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		DB3CA0CF2F390FA400A8F603 /* Exceptions for "VLM_testing" folder in "VLM_testing" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"VLM-testing-Info.plist",
+			);
+			target = DBE1E6EC2F38A157005B1030 /* VLM_testing */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DBE1E6EF2F38A157005B1030 /* VLM_testing */ = {
+		DB3CA0D42F391E0200A8F603 /* screenshots */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = VLM_testing;
+			path = screenshots;
 			sourceTree = "<group>";
 		};
-		DBE1E6FD2F38A15A005B1030 /* VLM_testingTests */ = {
+		DBE1E6EF2F38A157005B1030 /* VLM_testing */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = VLM_testingTests;
+			exceptions = (
+				DB3CA0CF2F390FA400A8F603 /* Exceptions for "VLM_testing" folder in "VLM_testing" target */,
+			);
+			path = VLM_testing;
 			sourceTree = "<group>";
 		};
 		DBE1E7072F38A15A005B1030 /* VLM_testingUITests */ = {
@@ -49,13 +62,6 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		DBE1E6EA2F38A157005B1030 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DBE1E6F72F38A15A005B1030 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -75,8 +81,11 @@
 		DBE1E6E42F38A156005B1030 = {
 			isa = PBXGroup;
 			children = (
+				DB3CA0D42F391E0200A8F603 /* screenshots */,
+				DB3CA0D02F3915BC00A8F603 /* README.md */,
+				DB3CA0C92F38FA2C00A8F603 /* VLM_testing.xctestplan */,
+				DBE1E71F2F38F4BE005B1030 /* Localizable.xcstrings */,
 				DBE1E6EF2F38A157005B1030 /* VLM_testing */,
-				DBE1E6FD2F38A15A005B1030 /* VLM_testingTests */,
 				DBE1E7072F38A15A005B1030 /* VLM_testingUITests */,
 				DBE1E6EE2F38A157005B1030 /* Products */,
 			);
@@ -86,7 +95,6 @@
 			isa = PBXGroup;
 			children = (
 				DBE1E6ED2F38A157005B1030 /* VLM_testing.app */,
-				DBE1E6FA2F38A15A005B1030 /* VLM_testingTests.xctest */,
 				DBE1E7042F38A15A005B1030 /* VLM_testingUITests.xctest */,
 			);
 			name = Products;
@@ -117,29 +125,6 @@
 			productReference = DBE1E6ED2F38A157005B1030 /* VLM_testing.app */;
 			productType = "com.apple.product-type.application";
 		};
-		DBE1E6F92F38A15A005B1030 /* VLM_testingTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = DBE1E7112F38A15A005B1030 /* Build configuration list for PBXNativeTarget "VLM_testingTests" */;
-			buildPhases = (
-				DBE1E6F62F38A15A005B1030 /* Sources */,
-				DBE1E6F72F38A15A005B1030 /* Frameworks */,
-				DBE1E6F82F38A15A005B1030 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				DBE1E6FC2F38A15A005B1030 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				DBE1E6FD2F38A15A005B1030 /* VLM_testingTests */,
-			);
-			name = VLM_testingTests;
-			packageProductDependencies = (
-			);
-			productName = VLM_testingTests;
-			productReference = DBE1E6FA2F38A15A005B1030 /* VLM_testingTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 		DBE1E7032F38A15A005B1030 /* VLM_testingUITests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = DBE1E7142F38A15A005B1030 /* Build configuration list for PBXNativeTarget "VLM_testingUITests" */;
@@ -154,6 +139,7 @@
 				DBE1E7062F38A15A005B1030 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
+				DB3CA0D42F391E0200A8F603 /* screenshots */,
 				DBE1E7072F38A15A005B1030 /* VLM_testingUITests */,
 			);
 			name = VLM_testingUITests;
@@ -176,10 +162,6 @@
 					DBE1E6EC2F38A157005B1030 = {
 						CreatedOnToolsVersion = 26.0.1;
 					};
-					DBE1E6F92F38A15A005B1030 = {
-						CreatedOnToolsVersion = 26.0.1;
-						TestTargetID = DBE1E6EC2F38A157005B1030;
-					};
 					DBE1E7032F38A15A005B1030 = {
 						CreatedOnToolsVersion = 26.0.1;
 						TestTargetID = DBE1E6EC2F38A157005B1030;
@@ -192,6 +174,11 @@
 			knownRegions = (
 				en,
 				Base,
+				fr,
+				de,
+				es,
+				ar,
+				he,
 			);
 			mainGroup = DBE1E6E42F38A156005B1030;
 			minimizedProjectReferenceProxies = 1;
@@ -201,7 +188,6 @@
 			projectRoot = "";
 			targets = (
 				DBE1E6EC2F38A157005B1030 /* VLM_testing */,
-				DBE1E6F92F38A15A005B1030 /* VLM_testingTests */,
 				DBE1E7032F38A15A005B1030 /* VLM_testingUITests */,
 			);
 		};
@@ -212,13 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DBE1E6F82F38A15A005B1030 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				DBE1E7202F38F4BE005B1030 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -226,6 +206,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB3CA0D22F3915C000A8F603 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,13 +214,6 @@
 
 /* Begin PBXSourcesBuildPhase section */
 		DBE1E6E92F38A157005B1030 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DBE1E6F62F38A15A005B1030 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,11 +230,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		DBE1E6FC2F38A15A005B1030 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = DBE1E6EC2F38A157005B1030 /* VLM_testing */;
-			targetProxy = DBE1E6FB2F38A15A005B1030 /* PBXContainerItemProxy */;
-		};
 		DBE1E7062F38A15A005B1030 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = DBE1E6EC2F38A157005B1030 /* VLM_testing */;
@@ -329,6 +298,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -386,12 +356,15 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
 		DBE1E70F2F38A15A005B1030 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = DBE1E7072F38A15A005B1030 /* VLM_testingUITests */;
+			baseConfigurationReferenceRelativePath = Secrets.xcconfig;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -400,11 +373,13 @@
 				DEVELOPMENT_TEAM = 7998K88CRA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "VLM-testing-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_PREPROCESS = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -424,6 +399,8 @@
 		};
 		DBE1E7102F38A15A005B1030 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = DBE1E7072F38A15A005B1030 /* VLM_testingUITests */;
+			baseConfigurationReferenceRelativePath = Secrets.xcconfig;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -432,11 +409,13 @@
 				DEVELOPMENT_TEAM = 7998K88CRA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "VLM-testing-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_PREPROCESS = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -454,57 +433,16 @@
 			};
 			name = Release;
 		};
-		DBE1E7122F38A15A005B1030 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 7998K88CRA;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jimin.VLM-testingTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VLM_testing.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/VLM_testing";
-			};
-			name = Debug;
-		};
-		DBE1E7132F38A15A005B1030 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 7998K88CRA;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jimin.VLM-testingTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VLM_testing.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/VLM_testing";
-			};
-			name = Release;
-		};
 		DBE1E7152F38A15A005B1030 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = DBE1E7072F38A15A005B1030 /* VLM_testingUITests */;
+			baseConfigurationReferenceRelativePath = Secrets.xcconfig;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7998K88CRA;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "VLM-testingUITests-Info.plist";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jimin.VLM-testingUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -520,11 +458,14 @@
 		};
 		DBE1E7162F38A15A005B1030 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = DBE1E7072F38A15A005B1030 /* VLM_testingUITests */;
+			baseConfigurationReferenceRelativePath = Secrets.xcconfig;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7998K88CRA;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "VLM-testingUITests-Info.plist";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jimin.VLM-testingUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -555,15 +496,6 @@
 			buildConfigurations = (
 				DBE1E70F2F38A15A005B1030 /* Debug */,
 				DBE1E7102F38A15A005B1030 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		DBE1E7112F38A15A005B1030 /* Build configuration list for PBXNativeTarget "VLM_testingTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				DBE1E7122F38A15A005B1030 /* Debug */,
-				DBE1E7132F38A15A005B1030 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
